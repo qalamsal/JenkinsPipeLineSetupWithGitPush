@@ -15,4 +15,10 @@ public class Test1 {
         System.out.println("Running Test2..");
         Assert.assertFalse(false);
     }
+
+    @Test
+    public void t3(){
+        System.out.println("Running Test3..");
+        Assert.assertFalse(false);
+    }
 }
