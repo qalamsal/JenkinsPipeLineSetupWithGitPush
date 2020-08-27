@@ -18,7 +18,7 @@ public class Test1 {
 
     @Test
     public void t3(){
-        System.out.println("Running Test3.");
+        System.out.println("Running Test3...");
         Assert.assertFalse(false);
     }
 }
