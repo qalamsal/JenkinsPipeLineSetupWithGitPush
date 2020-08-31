@@ -6,7 +6,7 @@ import org.junit.Test;
 public class Test1 {
     @Test
     public void t1(){
-        System.out.println("Running Test1..");
+        System.out.println("Running Test1...");
         Assert.assertTrue(true);
     }
 
